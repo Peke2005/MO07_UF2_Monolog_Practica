@@ -1,0 +1,17 @@
+{
+  "name": "polca/mo07_uf2_monolog_practica",
+  "autoload": {
+    "psr-4": {
+      "Polca\\Mo07Uf2MonologPractica\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Peke2005",
+      "email": "polcarbajalgarcia@gmail.com"
+    }
+  ],
+  "require": {
+    "monolog/monolog": "^3.8"
+  }
+}
